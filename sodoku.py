@@ -1,3 +1,4 @@
+### Examen sobre la categoria de memoria el cual elegi sodoku
 import tkinter as tk
 import random
 
